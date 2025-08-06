@@ -40,6 +40,7 @@ body {
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid #ccc;
+  text-align: center;
 }
 
 #heading-container h1 {
@@ -108,6 +109,7 @@ body {
 /* Card styling */
 .card {
   position: relative;
+  overflow: hidden;
   margin: 0px auto;
   width: 100px;  /* change 170 */
   aspect-ratio: 1/1;
